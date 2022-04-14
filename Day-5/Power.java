@@ -15,9 +15,10 @@ public class Power {
 
         /* 
         if a = 3 and b = 4 then 
-        i:1  res = 3*3
-        i:2  res = 3*3*3
-        i:3  res = 3*3*3*3
+        i:0  res = 1*3
+        i:1  res = 1*3*3
+        i:2  res = 1*3*3*3
+        i:3  res = 1*3*3*3*3
         */
         }
         System.out.println("Result is: " + res);
